@@ -24,9 +24,9 @@ Outcome 3  | 90%     | 40%     | 0%    |
 The total amount of money you have made from each pot will be calculated at the end of each round. In other words:
 
 	Total for each round =  
-	(money invested in Pot 1 * selecd Outcome of pot 1) +   
-	(money invested in Pot 2 * selecd Outcome of pot 2) +   
-	(money invested in Pot 3 * selectecome of pot 3)
+	(money invested in Pot 1 * randomly selected Outcome of pot 1) +   
+	(money invested in Pot 2 * randomly selected Outcome of pot 2) +   
+	(money invested in Pot 3 * randomly selected Oecome of pot 3)
 
 <br>
 

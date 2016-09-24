@@ -1,7 +1,7 @@
 # Thesis gambling game 
 
 * I programmed this game for my undergrad honors thesis, *An exploration of stress, gender, and risk preference in the financial and prosocial domains*
-* A modified version can be found in `thesis_gamblingGame.py`
+* A modified version of the game used in the experiment: `thesis_gamblingGame.py`. The original wrote participants' bets and winnings to a CSV and did not show them their winnings.
 * The game was designed to separate participants' baseline risk preference (as measured in game 1, when all expected values are the same) from their rational risk preference (as measured in game 2, when riskier investments have higher expected returns), two things that are often conflated in traditional behavioral economics tasks
 * Instructions for the game: `game_instructions.md`
 * Expected values: `expected_returns.md`. Note: this was not shown to participants.
